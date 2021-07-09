@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Welcome to Lokender's portfolio
+title: Lokender's portfolio
 
 # Your name to show in the footer
-author: Some Person
+author: Lokender Sarna
 
 # --- List of links in the navigation bar --- #
 
@@ -39,15 +39,15 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  medium: yourname
+  email: "lokender.ait@gmail.com"
+#  facebook: deanattali
+  github: LokenderSarna
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
+  medium: @lokender_sarna
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: lokendersarna
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
